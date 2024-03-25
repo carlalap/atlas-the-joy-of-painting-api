@@ -1,4 +1,4 @@
-## ETL: The Joy of Coding
+## Project - ETL: The Joy of Coding
 
 <div class="panel-body">
     <h2>Resources</h2>

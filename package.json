@@ -1,0 +1,30 @@
+{
+  "name": "holbertonschool-the-joy-of-painting-api",
+  "version": "1.0.0",
+  "description": "Bob Ross Joy of Painting API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carlalap/atlas-the-joy-of-painting-api"
+  },
+  "keywords": [
+    "JOY"
+  ],
+  "author": "Carlos Alarcon",
+  "license": "ISC",
+  "dependencies": {
+    "fastapi": "^0.73.0",
+    "pandas": "^1.3.5",
+    "pydantic": "^1.9.0",
+    "requests": "^2.27.1",
+    "SQLAlchemy": "^1.4.31",
+    "uvicorn": "^0.17.4"
+  },
+  "bugs": {
+    "url": "https://github.com/ronroeandassociates/holbertonschool-the-joy-of-painting-api/issues"
+  },
+  "homepage": "https://github.com/carlalap/atlas-the-joy-of-painting-api"
+}
