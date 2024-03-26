@@ -31,6 +31,7 @@ RUN apt-get install -y --force-yes libmysqlclient-dev
 
 # Python
 # Instalar paquetes de Python
+# Instalar paquetes de Python
 RUN apt-get install -y \
     build-essential \
     zlib1g-dev \
@@ -41,7 +42,6 @@ RUN apt-get install -y \
     libreadline-dev \
     libffi-dev \
     libsqlite3-dev
-
 
 # Installing Python Packets
 RUN pip3 install \
@@ -56,7 +56,11 @@ RUN pip3 install \
     beautifulsoup4 \
     mysql-connector-python \
     parameterized \
-    bs4
+    bs4 \
+    fastapi \
+    pandas \
+    pydantic \
+    uvicorn
 
 # W3C validator
 RUN curl -o "/usr/bin/w3c_validator.py" "https://raw.githubusercontent.com/holbertonschool/W3C-Validator/master/w3c_validator.py"

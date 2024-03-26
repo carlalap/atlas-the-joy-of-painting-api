@@ -1,5 +1,6 @@
 -- After creating DATABASE in MYSQL
 -- SQL script that creates table color_used for the Joy of Painting API.
+-- execute code mysql -u root -p joy_of_painting < colors.sql
 CREATE TABLE color_used (
     id SERIAL PRIMARY KEY,
     painting_index INT,
