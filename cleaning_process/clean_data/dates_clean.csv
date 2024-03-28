@@ -1,0 +1,404 @@
+ID,Title,Month,Date
+1,A Walk In The Woods,January,01-11-1983
+2,Mount Mckinley,January,01-11-1983
+3,Ebony Sunset,January,01-18-1983
+4,Winter Mist,January,01-25-1983
+5,Quiet Stream,February,02-01-1983
+6,Winter Moon,February,02-08-1983
+7,Autumn Mountains,February,02-15-1983
+8,Peaceful Valley,February,02-22-1983
+9,Seascape,March,03-01-1983
+10,Mountain Lake,March,03-08-1983
+11,Winter Glow,March,03-15-1983
+12,Snowfall,March,03-22-1983
+13,Final Reflections,March,03-29-1983
+14,Meadow Lake,August,08-31-1983
+15,Winter Sun,September,09-07-1983
+16,Ebony Sea,September,09-14-1983
+17,Shades Of Gray,September,09-21-1983
+18,Autumn Splendor,September,09-28-1983
+19,Black River,October,10-05-1983
+20,Brown Mountain,October,10-12-1983
+21,Reflections,October,10-19-1983
+22,Black & White Seascape,October,10-26-1983
+23,Lazy River,November,11-02-1983
+24,Black Waterfall,November,11-09-1983
+25,Mountain Waterfall,November,11-16-1983
+26,Final Grace,November,11-23-1983
+27,Mountain Retreat,January,01-04-1984
+28,Blue Moon,January,01-11-1984
+29,Bubbling Stream,January,01-18-1984
+30,Winter Night,January,01-25-1984
+31,Distant Hills,February,02-01-1984
+32,Covered Bridge,February,02-08-1984
+33,Quiet Inlet,February,02-15-1984
+34,Night Light,February,02-22-1984
+35,The Old Mill,March,03-01-1984
+36,Campfire,March,03-08-1984
+37,Rustic Barn,March,03-15-1984
+38,Hidden Lake,March,03-22-1984
+39,Peaceful Waters,March,03-29-1984
+40,Purple Splendor,September,09-05-1984
+41,Tranquil Valley,September,09-12-1984
+42,Majestic Mountains,September,09-19-1984
+43,Winter Sawscape,September,09-26-1984
+44,Evening Seascape,October,10-03-1984
+45,Warm Summer Day,October,10-10-1984
+46,Cabin In The Woods,October,10-17-1984
+47,Wetlands,October,10-24-1984
+48,Cool Waters,October,10-31-1984
+49,Quiet Woods,November,11-07-1984
+50,Northwest Majesty,November,11-14-1984
+51,Autumn Days,November,11-21-1984
+52,Mountain Challenge,November,11-28-1984
+53,Mountain Waterfall,January,01-02-1985
+54,Twilight Meadow,January,01-09-1985
+55,Mountain Blossoms,January,01-16-1985
+56,Winter Stillness,January,01-23-1985
+57,Quiet Pond,January,01-30-1985
+58,Ocean Sunrise,February,02-06-1985
+59,Bubbling Brook,February,02-13-1985
+60,Arizona Splendor,February,02-20-1985
+61,Anatomy Of A Wave,February,02-27-1985
+62,The Windmill,March,03-06-1985
+63,Autumn Glory,March,03-13-1985
+64,Indian Girl,March,03-20-1985
+65,Meadow Stream,March,03-27-1985
+66,Blue River,May,05-01-1985
+67,Nature'S Edge,May,05-08-1985
+68,Morning Mist,May,05-15-1985
+69,Whispering Stream,May,05-22-1985
+70,Secluded Forest,May,05-29-1985
+71,Snow Trail,June,06-05-1985
+72,Arctic Beauty,June,06-12-1985
+73,Horizons West,June,06-19-1985
+74,High Chateau,June,06-26-1985
+75,Country Life,July,07-02-1985
+76,Western Expanse,July,07-09-1985
+77,Marshlands,July,07-16-1985
+78,Blaze Of Color,July,07-23-1985
+79,Winter Cabin,October,10-02-1985
+80,Secluded Lake,October,10-09-1985
+81,Evergreen At Sunset,October,10-16-1985
+82,Mountain Cabin,October,10-23-1985
+83,Portrait Of Sally,October,10-30-1985
+84,Misty Waterfall,November,11-06-1985
+85,Barn At Sunset,November,11-13-1985
+86,Mountain Splendor,November,11-20-1985
+87,Lake By Mountain,November,11-27-1985
+88,Mountain Glory,December,12-06-1985
+89,Grey Winter,December,12-13-1985
+90,Dock Scene,December,12-20-1985
+91,Dark Waterfall,December,12-27-1985
+92,Misty Rolling Hills,January,01-02-1986
+93,Lakeside Cabin,January,01-09-1986
+94,Warm Winter Day,January,01-16-1986
+95,Waterside Way,January,01-23-1986
+96,Hunter'S Haven,January,01-30-1986
+97,Bubbling Mountain Brook,February,02-06-1986
+98,Winter Hideaway,February,02-13-1986
+99,Foot Of The Mountain,February,02-20-1986
+100,Majestic Pine,February,02-27-1986
+101,Cactus At Sunset,March,03-06-1986
+102,Mountain Range,March,03-13-1986
+103,Lonely Retreat,March,03-20-1986
+104,Northern Lights,March,03-27-1986
+105,Winter Evergreens,April,04-30-1986
+106,Surf'S Up,May,05-07-1986
+107,Red Sunset,May,05-14-1986
+108,Meadow Road,May,05-21-1986
+109,Winter Oval,May,05-28-1986
+110,Secluded Beach,June,06-04-1986
+111,Forest Hills,June,06-11-1986
+112,Little House By The Road,June,06-18-1986
+113,Mountain Pass,June,06-25-1986
+114,Country Charm,July,07-02-1986
+115,Nature'S Paradise,July,07-09-1986
+116,Mountain By The Sea,July,07-16-1986
+117,Mountain Hideaway,July,07-23-1986
+118,Towering Peaks,September,09-03-1986
+119,Cabin At Sunset,September,09-10-1986
+120,Twin Falls,September,09-17-1986
+121,Secluded Bridge,September,09-24-1986
+122,Ocean Breeze,October,10-01-1986
+123,Autumn Woods,October,10-08-1986
+124,Winter Solitude,October,10-15-1986
+125,Golden Sunset,October,10-22-1986
+126,Mountain Oval,October,10-29-1986
+127,Ocean Sunset,November,11-05-1986
+128,Triple View,November,11-12-1986
+129,Winter Frost,November,11-19-1986
+130,Lakeside Cabin,November,11-26-1986
+131,Mountain Stream,December,12-31-1986
+132,Country Cabin,January,01-07-1987
+133,Daisy Delight,January,01-14-1987
+134,Hidden Stream,January,01-21-1987
+135,Towering Glacier,January,01-28-1987
+136,Oval Barn,February,02-04-1987
+137,Lakeside Path,February,02-11-1987
+138,Sunset Oval,February,02-18-1987
+139,Winter Barn,February,02-25-1987
+140,Sunset Over The Waves,March,03-04-1987
+141,Golden Glow,March,03-11-1987
+142,Roadside Barn,March,03-18-1987
+143,Happy Accident,March,03-25-1987
+144,Golden Knoll,April,04-29-1987
+145,Mountain Reflections,May,05-06-1987
+146,Secluded Mountain,May,05-13-1987
+147,Bright Autumn Trees,May,05-20-1987
+148,Black Seascape,May,05-27-1987
+149,Steep Mountains,June,06-03-1987
+150,Quiet Mountain River,June,06-10-1987
+151,Evening Waterfall,June,06-17-1987
+152,Tropical Seascape,June,06-24-1987
+153,Mountain At Sunset,July,07-01-1987
+154,Soft Mountain Glow,July,07-08-1987
+155,Mountain In An Oval,July,07-15-1987
+156,Winter Mountain,July,07-22-1987
+157,Rolling Hills,September,09-02-1987
+158,Frozen Solitude,September,09-09-1987
+159,Meadow Brook,September,09-16-1987
+160,Evening Sunset,September,09-23-1987
+161,Mountain View,September,09-30-1987
+162,Hidden Creek,October,10-07-1987
+163,Peaceful Haven,October,10-14-1987
+164,Mountain Exhibition,October,10-21-1987
+165,Emerald Waters,October,10-28-1987
+166,Mountain Summit,November,11-04-1987
+167,Cabin Hideaway,November,11-11-1987
+168,Oval Essence,November,11-18-1987
+169,Lost Lake,November,11-25-1987
+170,Distant Mountains,December,12-30-1987
+171,Meadow Brook Surprise,January,01-06-1988
+172,Mountain Moonlight Oval,January,01-13-1988
+173,Snowy Solitude,January,01-20-1988
+174,Mountain River,January,01-27-1988
+175,Graceful Mountains,February,02-03-1988
+176,Windy Waves,February,02-10-1988
+177,On A Clear Day,February,02-17-1988
+178,Riverside Escape Oval,February,02-24-1988
+179,Surprising Falls,March,03-02-1988
+180,Shadow Pond,March,03-09-1988
+181,Misty Forest,March,03-16-1988
+182,Natural Wonder,March,03-23-1988
+183,Splendor Of Winter,April,04-27-1988
+184,Colors Of Nature,May,05-04-1988
+185,Grandpa'S Barn,May,05-11-1988
+186,Peaceful Reflections,May,05-18-1988
+187,Hidden Winter Moon Oval,May,05-25-1988
+188,Waves Of Wonder,June,06-01-1988
+189,Cabin By The Pond,June,06-08-1988
+190,Fall Stream,June,06-15-1988
+191,Christmas Eve Snow,June,06-22-1988
+192,Forest Dawn Oval,June,06-29-1988
+193,Pathway To Autumn,July,07-06-1988
+194,Deep Forest Lake,July,07-13-1988
+195,Peaks Of Majesty,July,07-20-1988
+196,Two Seasons,August,08-17-1988
+197,Nestled Cabin,August,08-24-1988
+198,Wintertime Discovery,August,08-31-1988
+199,Mountain Mirage,September,09-07-1988
+200,Double Oval Fantasy,September,09-14-1988
+201,Contemplative Lady,September,09-21-1988
+202,Deep Woods,September,09-28-1988
+203,High Tide,October,10-05-1988
+204,Barn In Snow Oval,October,10-12-1988
+205,That Time Of Year,October,10-19-1988
+206,Waterfall Wonder,October,10-26-1988
+207,Mighty Mountain Lake,November,11-02-1988
+208,Wooded Stream Oval,November,11-09-1988
+209,Golden Mist Oval,January,01-04-1989
+210,Old Place Home,January,01-11-1989
+211,Soothing Vista,January,01-18-1989
+212,Stormy Seas,January,01-25-1989
+213,Country Time,February,02-01-1989
+214,A Mild Winter'S Day,February,02-08-1989
+215,Spectacular Waterfall,February,02-15-1989
+216,View From The Park,February,02-22-1989
+217,Lake View,March,03-01-1989
+218,Old Country Mill,March,03-08-1989
+219,Morning Walk,March,03-15-1989
+220,Nature'S Splendor,March,03-22-1989
+221,Mountain Beauty,March,03-29-1989
+222,Half Oval Vignette,July,07-05-1989
+223,Absolutely Autumn,July,07-12-1989
+224,Mountain Seclusion,July,07-19-1989
+225,Crimson Oval,July,07-26-1989
+226,Autumn Exhibition,August,08-02-1989
+227,Majestic Peaks,August,08-09-1989
+228,Golden Morning Mist,August,08-16-1989
+229,Winter Lace,August,08-23-1989
+230,Seascape Fantasy,August,08-30-1989
+231,Double Oval Stream,September,09-06-1989
+232,Enchanted Forest,September,09-13-1989
+233,Southwest Serenity,September,09-20-1989
+234,Rippling Waters,September,09-27-1989
+235,Snowfall Magic,January,01-03-1990
+236,Quiet Mountain Lake,January,01-10-1990
+237,Final Embers Of Sunlight,January,01-17-1990
+238,Snowy Morn,January,01-24-1990
+239,Camper'S Haven,January,01-31-1990
+240,Waterfall In The Woods,February,02-07-1990
+241,Covered Bridge Oval,February,02-14-1990
+242,Scenic Seclusion,February,02-21-1990
+243,Ebb Tide,February,02-28-1990
+244,After The Rain,March,03-07-1990
+245,Winter Elegance,March,03-14-1990
+246,Evening'S Peace,March,03-21-1990
+247,Valley Of Tranquility,March,03-28-1990
+248,Mystic Mountain,April,04-04-1990
+249,New Day'S Dawn,April,04-11-1990
+250,Pastel Winter,April,04-18-1990
+251,Hazy Day,April,04-25-1990
+252,Divine Elegance,May,05-02-1990
+253,Cliffside,May,05-09-1990
+254,Autumn Fantasy,May,05-16-1990
+255,Old Oak Tree,May,05-23-1990
+256,Winter Paradise,May,05-30-1990
+257,Days Gone By,June,06-06-1990
+258,Change Of Seasons,June,06-13-1990
+259,Hidden Delight,June,06-20-1990
+260,Double Take,June,06-27-1990
+261,Valley View,September,09-05-1990
+262,Tranquil Dawn,September,09-12-1990
+263,Royal Majesty,September,09-19-1990
+264,Serenity,September,09-26-1990
+265,Cabin At Trial'S End,October,10-03-1990
+266,Mountain Rhapsody,October,10-10-1990
+267,Wilderness Cabin,October,10-17-1990
+268,By The Sea,October,10-24-1990
+269,Indian Summer,October,10-31-1990
+270,Blue Winter,November,11-07-1990
+271,Desert Glow,November,11-14-1990
+272,Lone Mountain,November,11-21-1990
+273,Florida'S Glory,November,11-28-1990
+274,Autumn Images,January,01-01-1991
+275,Hint Of Springtime,January,01-08-1991
+276,Around The Bend,January,01-15-1991
+277,Countryside Oval,January,01-22-1991
+278,Russet Winter,January,01-29-1991
+279,Purple Haze,February,02-05-1991
+280,Dimensions,February,02-12-1991
+281,Deep Wilderness Home,February,02-19-1991
+282,Haven In The Valley,February,02-26-1991
+283,Wintertime Blues,March,03-05-1991
+284,Pastel Seascape,March,03-12-1991
+285,Country Creek,March,03-19-1991
+286,Silent Forest,March,03-26-1991
+287,Frosty Winter Morn,September,09-03-1991
+288,Forest Edge,September,09-10-1991
+289,Mountain Ridge Lake,September,09-17-1991
+290,Reflections Of Gold,September,09-24-1991
+291,Quiet Cove,October,10-01-1991
+292,River'S Peace,October,10-08-1991
+293,At Dawn'S Light,October,10-15-1991
+294,Valley Waterfall,October,10-22-1991
+295,Toward Day'S End,October,10-29-1991
+296,Falls In The Glen,November,11-05-1991
+297,Frozen Beauty In Vignette,November,11-12-1991
+298,Crimson Tide,November,11-19-1991
+299,Winter Bliss,November,11-26-1991
+300,Grey Mountain,January,01-07-1992
+301,Wayside Pond,January,01-14-1992
+302,Teton Winter,January,01-21-1992
+303,Little Home In The Meadow,January,01-28-1992
+304,Pretty Autumn Day,February,02-04-1992
+305,Mirrored Images,February,02-11-1992
+306,Back-Country Path,February,02-18-1992
+307,Graceful Waterfall,February,02-25-1992
+308,Icy Lake,March,03-03-1992
+309,Rowboat On The Beach,March,03-10-1992
+310,Portrait Of Winter,March,03-17-1992
+311,Footbridge,March,03-24-1992
+312,Snowbound Cabin,March,03-31-1992
+313,Hide-A-Way Cove,August,08-25-1992
+314,Enchanted Falls Oval,September,09-01-1992
+315,Not Quite Spring,September,09-08-1992
+316,Splashes Of Autumn,September,09-15-1992
+317,Summer In The Mountains,September,09-22-1992
+318,Oriental Falls,September,09-29-1992
+319,Autumn Palette,October,10-06-1992
+320,Cypress Swamp,October,10-13-1992
+321,Downstream View,October,10-20-1992
+322,Just Before The Storm,October,10-27-1992
+323,Fisherman'S Paradise,November,11-03-1992
+324,Desert Hues,November,11-10-1992
+325,The Property Line,November,11-17-1992
+326,In The Stillness Of Morning,December,12-01-1992
+327,Delightful Meadow Home,December,12-08-1992
+328,First Snow,December,12-15-1992
+329,Lake In The Valley,December,12-22-1992
+330,A Trace Of Spring,December,12-29-1992
+331,An Arctic Winter Day,January,01-05-1993
+332,Snow Birch,January,01-12-1993
+333,Early Autumn,January,01-19-1993
+334,Tranquil Wooded Stream,January,01-26-1993
+335,Purple Mountain Range,February,02-02-1993
+336,Storm'S A Comin',February,02-09-1993
+337,Sunset Aglow,February,02-16-1993
+338,Evening At The Falls,February,02-23-1993
+339,Twilight Beauty,March,03-02-1993
+340,Angler'S Haven,March,03-09-1993
+341,Rustic Winter Woods,March,03-16-1993
+342,Wilderness Falls,March,03-23-1993
+343,Winter At The Farm,March,03-30-1993
+344,Daisies At Dawn,April,04-06-1993
+345,A Spectacular View,April,04-13-1993
+346,Daybreak,April,04-20-1993
+347,Island Paradise,April,04-27-1993
+348,Sunlight In The Shadows,May,05-04-1993
+349,Splendor Of A Snowy Winter,May,05-11-1993
+350,Forest River,May,05-18-1993
+351,Golden Glow Of Morning,May,05-20-1993
+352,Fisherman'S Trail,May,05-25-1993
+353,A Warm Winter,June,06-01-1993
+354,Under Pastel Skies,June,06-08-1993
+355,Golden Rays Of Sunlight,June,06-15-1993
+356,The Magic Of Fall,June,06-22-1993
+357,Glacier Lake,June,06-29-1993
+358,The Old Weathered Barn,July,07-06-1993
+359,Deep Forest Falls,July,07-13-1993
+360,Winter'S Grace,July,07-20-1993
+361,Splendor Of Autumn,July,07-27-1993
+362,Tranquil Seas,August,08-03-1993
+363,Mountain Serenity,August,08-10-1993
+364,Home Before Nightfall,August,08-17-1993
+365,Island In The Wilderness,August,08-24-1993
+366,Autumn Oval,August,08-31-1993
+367,Seasonal Progression,September,09-07-1993
+368,Light At The Summit,September,09-14-1993
+369,Countryside Barn,September,09-21-1993
+370,Mountain Lake Falls,September,09-28-1993
+371,Cypress Creek,October,10-05-1993
+372,Trapper'S Cabin,October,10-12-1993
+373,Storm On The Horizon,October,10-19-1993
+374,Pot O' Posies,October,10-26-1993
+375,A Perfect Winter Day,November,11-02-1993
+376,Aurora'S Dance,November,11-09-1993
+377,Woodsman'S Retreat,November,11-16-1993
+378,Babbling Brook,November,11-23-1993
+379,Woodgrain View,November,11-30-1993
+380,Winter'S Peace,December,12-07-1993
+381,Wilderness Trail,December,12-14-1993
+382,A Copper Winter,December,12-21-1993
+383,Misty Foothills,December,12-28-1993
+384,Through The Window,January,01-04-1994
+385,Home In The Valley,January,01-11-1994
+386,Mountains Of Grace,January,01-18-1994
+387,Seaside Harmony,January,01-25-1994
+388,A Cold Spring Day,February,02-01-1994
+389,Evening'S Glow,February,02-08-1994
+390,Blue Ridge Falls,February,02-15-1994
+391,Reflections Of Calm,February,02-22-1994
+392,Before The Snowfall,March,03-01-1994
+393,Winding Stream,March,03-08-1994
+394,Tranquility Cove,March,03-15-1994
+395,Cabin In The Hollow,March,03-22-1994
+396,View From Clear Creek,March,03-29-1994
+397,Bridge To Autumn,April,04-05-1994
+398,Trail'S End,April,04-12-1994
+399,Evergreen Valley,April,04-19-1994
+400,Balmy Beach,April,04-26-1994
+401,Lake At The Ridge,May,05-03-1994
+402,In The Midst Of Winter,May,05-10-1994
+403,Wilderness Day,May,05-17-1994
