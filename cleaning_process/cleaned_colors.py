@@ -28,7 +28,7 @@ colors = colors.applymap(clean_string)
 # Every word in Title start with Capital lleter
 colors['Title'] = colors['Title'].str.lower().str.title()
 colors['Colors'] = colors['Colors'].str.replace('\r\n', '')
-# delete columns
+# delete columns from Black_Gesso - to Alizarin_Crimson
 colors = colors.drop(
     columns=colors.loc[:, 'Black_Gesso':'Alizarin_Crimson'])
 # Save the cleaned data to a new CSV file

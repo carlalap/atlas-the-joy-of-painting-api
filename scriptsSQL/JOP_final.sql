@@ -1,5 +1,6 @@
 -- After creating DATABASE in MYSQL
 -- SQL script creates table for the Joy of Painting API.
+-- Remember to start SQL server : service mysql start
 -- execute code mysql -u root -p joy_of_painting < colors.sql
 SET GLOBAL local_infile=true;
 GRANT FILE ON *.* TO 'root'@'localhost';

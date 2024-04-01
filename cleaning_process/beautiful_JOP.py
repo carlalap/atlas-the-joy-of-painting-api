@@ -92,6 +92,7 @@ subject = subject.drop(columns=subject.loc[:, 'Apple_Frame':'Wood_Framed'])
 
 ##### Start of Merging Stage ##############
 
+# create a new file with the clean data
 merged_jop = pd.merge(dates, pd.merge(subject, colors, on=[
     'ID', 'Title']), on=['ID', 'Title'])
 # Save the result to a new CSV file.
