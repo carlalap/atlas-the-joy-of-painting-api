@@ -1,0 +1,58 @@
+/* styles.css */
+
+/* Resetting default margin and padding */
+body, h1, header, main {
+    margin: 0;
+    padding: 0;
+}
+
+/* Styling the header */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Styling the main content area */
+main {
+    margin: 20px;
+}
+
+/* Styling for buttons */
+.buttons-container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.buttons-container button {
+    padding: 10px 20px;
+    margin: 0 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.buttons-container button:hover {
+    background-color: #0056b3;
+}
+
+/* Styling for API response data */
+.painting {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+/* Styling for links */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}

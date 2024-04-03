@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paintings SPA</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Paintings SPA</h1>
+    </header>
+    <main>
+        <div class="buttons-container">
+            <div class="button-wrapper">
+                <input type="text" id="inputByMonth" placeholder="Enter month...">
+                <button id="btnByMonth">Get Paintings by Month</button>
+            </div>
+            <div class="button-wrapper">
+                <input type="text" id="inputBySubject" placeholder="Enter subject...">
+                <button id="btnBySubject">Get Paintings by Subject</button>
+            </div>
+            <div class="button-wrapper">
+                <input type="text" id="inputByColor" placeholder="Enter color...">
+                <button id="btnByColor">Get Paintings by Color</button>
+            </div>
+        </div>
+        <div id="paintingsContainer"></div>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
