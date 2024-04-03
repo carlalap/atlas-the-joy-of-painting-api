@@ -25,9 +25,18 @@ main {
     margin-bottom: 20px;
 }
 
-.buttons-container button {
+.button-wrapper {
+    margin-bottom: 10px;
+}
+
+.button-wrapper input[type="text"] {
+    padding: 8px;
+    width: 200px;
+}
+
+.button-wrapper button {
     padding: 10px 20px;
-    margin: 0 10px;
+    margin-left: 10px;
     background-color: #007bff;
     color: #fff;
     border: none;
@@ -35,7 +44,7 @@ main {
     cursor: pointer;
 }
 
-.buttons-container button:hover {
+.button-wrapper button:hover {
     background-color: #0056b3;
 }
 
