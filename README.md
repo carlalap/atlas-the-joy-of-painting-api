@@ -39,6 +39,25 @@
   </div>
 </div>
 
+<h2>Tech Stack Used in this Project</h2>
+
+<ul>
+          <li>Docker <code>Python Pandas, SQL, JavaScript, NodeJS, Express </code></li>
+          <li>Anaconda</li>
+          <li>Jupyter Notebook</li>
+          </ul>
+
+<h2>Accessing the data</h2>
+
+You can access all the information of Episodes at <code> http://localhost:8080/happy_bob/ </code>
+
+To see episodes by Month use the route <code> http://localhost:8080/happy_bob/month/:{ month }</code>
+
+To see episodes by Subject Matter use the route
+<code> http://localhost:8080/happy_bob/subject/: { subject } </code>
+
+To see episodes according to the colors used, use the route.<code> http://localhost:8080/happy_bob/color/: { color } </code>
+
 <h2 class="gap">Tasks</h2>
 
 <div data-role="task27251" data-position="1" id="task-num-0">
@@ -192,25 +211,6 @@
           <li>GitHub repository: <code>atlas-the-joy-of-painting-api</code></li>
         </ul>
       </div>
-
-<h2>Accessing the data</h2>
-
-You can access all the information of Episodes at <code> http://localhost:8080/happy_bob/ </code>
-
-To see episodes by Month use the route <code> http://localhost:8080/happy_bob/month/:{ month }</code>
-
-To see episodes by Subject Matter use the route
-<code> http://localhost:8080/happy_bob/subject/: { subject } </code>
-
-To see episodes by Subject Matter use the route <code> http://localhost:8080/happy_bob/color/: { color } </code>
-
-<h2>Tech Stack</h2>
-
-<ul>
-          <li>Docker <code>Python Pandas, SQL, JavaScript, NodeJS, Express </code></li>
-          <li>Anaconda</li>
-          <li>Jupyter Notebook</li>
-          </ul>
 
 <h2>Author</h2>
 Carlos Alarcon
