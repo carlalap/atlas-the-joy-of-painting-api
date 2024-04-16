@@ -1,6 +1,6 @@
 ## Project - ETL: The Joy of Coding
 
-![ETL Data Process](./images/etl_process.png)
+![ETL Data Process](/images/etl_process.png)
 
 <div class="panel-body">
     <h2>Resources</h2>
